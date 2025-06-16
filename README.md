@@ -1,2 +1,3 @@
-# wish-you
-wish you description
+# BirthdayCelebration
+
+birthday celebration using html css and javascript
